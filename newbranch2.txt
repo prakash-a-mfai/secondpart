@@ -1,2 +1,1 @@
-this for new branch 2 
-creation and pull request learning
+this for creating a new branch
